@@ -1,0 +1,29 @@
+{
+  "name": "project-urlshortnergroup96",
+  "version": "1.0.0",
+  "description": "Uranium\r #Scalable URL Shortner Project Requirement\r Phase I\r Overview\r URL shortening is used to create shorter aliases for long URLs. We call these shortened aliases “short links.” Users are redirected to the original URL when they hit these short links. Short links save a lot of space when displayed, printed, messaged, or tweeted. Additionally, users are less likely to mistype shorter URLs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swati24p/project-UrlShortnerGroup96.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swati24p/project-UrlShortnerGroup96/issues"
+  },
+  "homepage": "https://github.com/Swati24p/project-UrlShortnerGroup96#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3",
+    "nodemon": "^2.0.16",
+    "redis": "^3.1.2",
+    "route": "^0.2.5",
+    "short-id": "^0.1.0-1",
+    "util": "^0.12.4"
+  }
+}
